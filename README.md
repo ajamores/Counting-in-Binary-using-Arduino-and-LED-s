@@ -38,6 +38,7 @@ To get started with this project, follow these steps:
 Feel free to modify the code and experiment with different LED configurations or binary patterns.
 
 ## Youtube Video Link
+[![Link to YouTube Video](https://i.imgur.com/iDrfrPM.png)](https://youtu.be/78-HMDPaRE4)
 
 
 
